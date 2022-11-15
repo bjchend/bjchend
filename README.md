@@ -1,5 +1,11 @@
-### Hi there 👋
+### ⚡⚡⚡Hello Meta Universe⚡⚡⚡ Hello Game World ⚡⚡⚡
+👋👋👋 Share my hobby, Share my learning, Share my experience 👋👋👋
 
+✨✨✨ Love technology and love life ✨✨✨
+
+
+
+🌱🌱🌱Update some interesting projects one after another🌱🌱🌱
 <!--
 **bjchend/bjchend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +19,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 👋
+- ✨
 -->
